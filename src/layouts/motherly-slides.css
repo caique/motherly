@@ -1,0 +1,15 @@
+div .slide-01 {
+    font-size: 24px;
+}
+
+.commands {
+    font-size: 18px;
+}
+
+.previous {
+    margin-right: 25%;
+}
+
+.next {
+    margin-left: 25%;
+}

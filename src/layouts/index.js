@@ -6,6 +6,7 @@ import Swipeable from 'react-swipeable';
 import Transition from '../components/transition';
 
 import './index.css';
+import './motherly-slides.css';
 
 const Header = ({ name, title, date }) => (
   <header>
@@ -56,6 +57,15 @@ class TemplateWrapper extends Component {
   render() {
     const { location, children, site } = this.props;
 
+    const currentDate = () => {
+      const now = new Date()
+      const dateFormatter = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'long', day: '2-digit' }) 
+  
+      const [{ value: month },,{ value: day },,{ value: year }] = dateFormatter.formatToParts(now);
+  
+      return `${month} ${day}, ${year}`;
+    }
+
     return (
       <div>
         <Helmet
@@ -64,7 +74,7 @@ class TemplateWrapper extends Component {
         <Header
           name={site.siteMetadata.name}
           title={site.siteMetadata.title}
-          date={site.siteMetadata.date}
+          date={currentDate()}
         />
         <Swipeable
           onSwipedLeft={this.swipeLeft}

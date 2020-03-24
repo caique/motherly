@@ -1,25 +1,9 @@
-# Gatsby Deck
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 
-Create presentations using Gatsby & React.
+<img src="./images/motherly-logo.png" width="25" height="25" />
 
----
+An online platform from moms to moms
 
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
-
----
-
-# 🤫
-
----
-
-## Slides are written in Markdown!
-
-Here's the source of the first slide:
-
-    # Gatsby Deck
-
-    Create presentations using Gatsby & React.
+<span class="commands previous"><i class="ri-arrow-left-line"></i> Previous</span>
+<span class="commands description">Use the arrow keys to navigate</span>
+<span class="commands next">Next <i class="ri-arrow-right-line"></i></span>
