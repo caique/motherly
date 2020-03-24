@@ -4,8 +4,10 @@ import { Link, navigate, StaticQuery, graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 import Swipeable from 'react-swipeable';
 import Transition from '../components/transition';
+import Commands from '../components/commands';
 
 import './index.css';
+import './index-large.css';
 import './motherly-slides.css';
 
 const Header = ({ name, title, date }) => (
@@ -68,6 +70,8 @@ class TemplateWrapper extends Component {
 
     return (
       <div>
+        <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet"></link>
+
         <Helmet
           title={`${site.siteMetadata.title} — ${site.siteMetadata.name}`}
         />
@@ -84,6 +88,7 @@ class TemplateWrapper extends Component {
             <div id="slide" style={{'width': '100%'}}>{children}</div>
           </Transition>
         </Swipeable>
+        <Commands />
       </div>
     );
   }

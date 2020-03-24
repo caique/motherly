@@ -1,15 +1,12 @@
-div .slide-01 {
-    font-size: 24px;
-}
+:root {
+    --bg: #fdfdfd;
+    --meta: #888;
+    --accent: #3178cd;
+    --text: black;
+    --base: 1.5rem;
+  }
 
-.commands {
-    font-size: 18px;
-}
-
-.previous {
-    margin-right: 25%;
-}
-
-.next {
-    margin-left: 25%;
+.subtitle {
+    font-size: 28px;
+    color: var(--meta);
 }
