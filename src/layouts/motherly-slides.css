@@ -1,12 +1,27 @@
 :root {
-    --bg: #fdfdfd;
-    --meta: #888;
-    --accent: #3178cd;
-    --text: black;
-    --base: 1.5rem;
-  }
+  --bg: #fdfdfd;
+  --meta: #888;
+  --accent: #3178cd;
+  --text: black;
+  --base: 1.5rem;
+}
 
 .subtitle {
-    font-size: 28px;
-    color: var(--meta);
+  font-size: 28px;
+  color: var(--meta);
+}
+
+.article-reference {
+  font-size: 14px;
+  color: var(--accent);
+}
+
+.quote {
+  font-size: 28px;
+  font-style: italic;
+}
+
+.slide {
+  font-size: 28px;
+  margin-bottom: 3vh;  
 }
