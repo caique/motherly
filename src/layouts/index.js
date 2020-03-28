@@ -20,6 +20,8 @@ const Header = ({ name, title, date }) => (
   </header>
 );
 
+const isBrowser = typeof window !== `undefined`;
+
 class TemplateWrapper extends Component {
   NEXT = [13, 32, 39];
   PREV = 37;
@@ -31,6 +33,10 @@ class TemplateWrapper extends Component {
   swipeRight = () => {
     this.navigate({ keyCode: this.PREV });
   };
+
+  fetchLocation = () => {
+    return isBrowser ? window.location.pathname : 'window not available';
+  }
 
   navigate = ({ keyCode }) => {
     const now = this.props.data.slide.index;
@@ -89,7 +95,7 @@ class TemplateWrapper extends Component {
             <div id="slide" style={{'width': '100%'}}>{children}</div>
           </Transition>
         </Swipeable>
-        <Commands location={window.location.pathname} />
+        <Commands location={this.fetchLocation()} />
       </div>
     );
   }
