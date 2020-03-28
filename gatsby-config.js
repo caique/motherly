@@ -24,6 +24,7 @@ module.exports = {
             options: {
               maxWidth: 640,
               linkImagesToOriginal: false,
+              loading: 'eager',
             },
           },
         ],
