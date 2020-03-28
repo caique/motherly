@@ -20,6 +20,8 @@
 .quote {
   font-size: 28px;
   font-style: italic;
+  margin-bottom: 7vh;
+  margin-top: 7vh;
 }
 
 .slide {

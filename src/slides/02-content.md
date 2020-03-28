@@ -8,7 +8,7 @@
 </div>
 
 <div class="slide">
-    The target is, by 2030, <strong>end preventable deaths of newborns and children under 5 years of age</strong>.
+    The target is, by 2030, <strong>to end preventable deaths of newborns and children under 5 years of age</strong>.
 </div>
 
 ---
@@ -19,21 +19,16 @@ One possible solution for child mortality is <strong>breastfeeding</strong>!
 
 <div class="quote">
     "Children who are breastfed for longer periods have <strong>lower infectious morbidity and mortality</strong> [...] than do those who are breastfed for shorter periods, or not breastfed."
+    
+    
 </div>
-
-<a class="article-reference" href="https://www.ncbi.nlm.nih.gov/pubmed/26869575" target="_blank">
-Victora GC, Bahl R, Barros AJ, França GV, Horton S, Krasevec J, et al. Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect. Lancet. 2016;387(10017):475-90.
-</a>
-
-<br /><br />
 
 <div class="quote">
     "Both the World Health Organization (WHO) and United Nations Children's Fund (UNICEF) <strong>recommend early initiation of breastfeeding</strong> [...]"
 </div>
 
-<a class="article-reference" href="https://www.ncbi.nlm.nih.gov/pubmed/26249674" target="_blank">
-Sankar MJ, Sinha B, Chowdhury R, Bhandari N, Taneja S, Martines J, et al. Optimal breastfeeding practices and infant and child mortality: a systematic review and meta-analysis. Acta Paediatr. 2015;104(467):3-13.
-</a>
+<!-- <a href="https://www.ncbi.nlm.nih.gov/pubmed/26869575" target="_blank"></a>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/26249674" target="_blank"></a> -->
 
 ---
 
@@ -45,11 +40,11 @@ Sankar MJ, Sinha B, Chowdhury R, Bhandari N, Taneja S, Martines J, et al. Optima
     "Breastfeeding promotion is <strong>important in both rich and poor countries alike</strong>, and <strong>might contribute to achievement of the forthcoming Sustainable Development Goals</strong>."
 </div>
 
-<a class="article-reference" href="https://www.ncbi.nlm.nih.gov/pubmed/26869575" target="_blank">
-Victora GC, Bahl R, Barros AJ, França GV, Horton S, Krasevec J, et al. Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect. Lancet. 2016;387(10017):475-90.
-</a>
-
 ---
+
+<div class="detail">
+    <i class="ri-bar-chart-box-line"></i>
+</div>
 
 <div class="slide">
     Despite all that, breastfeeding rates globally remain low. 
@@ -80,8 +75,6 @@ Victora GC, Bahl R, Barros AJ, França GV, Horton S, Krasevec J, et al. Breastfe
 ---
 
 <div class="detail">
-    <i class="ri-facebook-box-line"></i>
-    <i class="ri-twitter-line"></i>
     <i class="ri-instagram-line"></i>
 </div>
 
@@ -98,6 +91,10 @@ Victora GC, Bahl R, Barros AJ, França GV, Horton S, Krasevec J, et al. Breastfe
 </div>
 
 ---
+
+<div class="detail">
+    <i class="ri-forbid-line"></i>
+</div>
 
 <div class="slide">
     However, <strong>social networks are not build for breastfeeding content</strong>. This makes women uncomfortable and reduces their chances to share experiences and provide support.
@@ -124,6 +121,10 @@ Victora GC, Bahl R, Barros AJ, França GV, Horton S, Krasevec J, et al. Breastfe
 </div>
 
 ---
+
+<div class="detail">
+    <i class="ri-chat-heart-line"></i>
+</div>
 
 <div class="slide">
     It’s already been proved that <strong>breastfeeding can reduce neonatal mortality</strong>. Motherly can connect moms who are struggling with breastfeeding and ensure that they receive the necessary support.
