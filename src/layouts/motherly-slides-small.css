@@ -1,0 +1,51 @@
+@media only screen and (max-width: 768px) {
+  .centralized-image {
+    display: block;
+    margin: auto;
+    margin-bottom: 3%;
+    width: 85%;
+    height: 80%;
+  }
+
+  .centralized-logo {
+    display: block;
+    margin: auto;
+    margin-bottom: 3%;
+    width: 75%;
+    height: 75%;
+  }
+
+  header {
+    font-size: 40%;
+  
+    position: fixed;
+    top: 0;
+    left: 0;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    width: 100%;
+    padding: 20px;
+  
+    user-select: none;
+  }
+  
+  footer {
+    font-size: 40%;
+  
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    width: 100%;
+    padding: 50px;
+  
+    user-select: none;
+  }
+}

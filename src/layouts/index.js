@@ -9,6 +9,7 @@ import Commands from '../components/commands';
 import './index.css';
 import './index-large.css';
 import './motherly-slides.css';
+import './motherly-slides-small.css';
 
 const Header = ({ name, title, date }) => (
   <header>
