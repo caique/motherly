@@ -108,7 +108,6 @@ export default props => (
           siteMetadata {
             name
             title
-            date
           }
         }
         allSlide {

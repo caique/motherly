@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
-    name: `Cecília Lobo`,
+    name: `Cecilia Lobo`,
     title: `Motherly`,
-    date: `March 23, 2020`,
   },
   plugins: [
     `gatsby-plugin-layout`,

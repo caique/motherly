@@ -162,7 +162,7 @@ One possible solution for child mortality is <strong>breastfeeding</strong>!
 
 <div class="thanks">
     <div class="restart">
-        <a href="/1">RESTART PRESENTATION</a>
+        <a href="/1">Restart Presentation</a>
     </div>
 </div>
 
