@@ -89,7 +89,7 @@ class TemplateWrapper extends Component {
             <div id="slide" style={{'width': '100%'}}>{children}</div>
           </Transition>
         </Swipeable>
-        <Commands />
+        <Commands location={window.location.pathname} />
       </div>
     );
   }
