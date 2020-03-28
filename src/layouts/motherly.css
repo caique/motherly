@@ -15,11 +15,6 @@
   color: var(--accent);
 }
 
-.subtitle {
-  font-size: var(--regular-text);
-  color: var(--meta);
-}
-
 .quote {
   font-size: var(--regular-text);
   font-style: italic;
@@ -54,32 +49,32 @@
 .centralized-image {
   display: block;
   margin: auto;
-  margin-bottom: 3%;
-  width: 75%;
-  height: 70%;
+  margin-bottom: 5vh;
+  width: 75vw;
+  height: 75vh;
 }
 
 .logo {
   display: block;
   margin: auto;
-  margin-bottom: 3%;
-  width: 50%;
-  height: 50%;
+  margin-bottom: 3vh;
+  width: 50vw;
+  height: 50vh;
 }
 
 .image-01 {
   display: block;
   margin: auto;
-  width: 45%;
-  height: 40%;
+  width: 35vw;
+  height: 35vh;
 }
 
 .image-04 {
   display: block;
   margin: auto;
-  margin-bottom: 3%;
-  width: 70%;
-  height: 65%;
+  margin-bottom: 3vh;
+  width: 75vw;
+  height: 75vh;
 }
 
 .thanks {

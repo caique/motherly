@@ -23,8 +23,8 @@ html {
 
   overflow: auto;
 
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   margin: 0;
   padding: 0;
 
@@ -118,7 +118,7 @@ header {
   justify-content: space-between;
   align-items: center;
 
-  width: 100%;
+  width: 100vw;
   padding: 20px;
 
   user-select: none;
@@ -135,7 +135,7 @@ footer {
   justify-content: space-between;
   align-items: center;
 
-  width: 100%;
+  width: 100vw;
   padding: 50px;
 
   user-select: none;
@@ -147,7 +147,7 @@ footer {
 }
 
 .previous {
-  margin-right: 25%;
+  margin-right: 25vw;
   text-decoration: none;
 }
 
@@ -157,7 +157,7 @@ footer {
 }
 
 .next {
-  margin-left: 25%;
+  margin-left: 25vw;
   text-decoration: none;
 }
 
