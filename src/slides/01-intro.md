@@ -3,3 +3,7 @@
 <div class="logo">
     <img src="./images/logo.svg"/>
 </div>
+
+<div class="mobile-instructions">
+    <span class="instructions">Swipe to navigate</span>
+</div>

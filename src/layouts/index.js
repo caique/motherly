@@ -7,9 +7,9 @@ import Transition from '../components/transition';
 import Commands from '../components/commands';
 
 import './index.css';
-import './index-large.css';
-import './motherly-slides.css';
-import './motherly-slides-small.css';
+import './motherly.css';
+import './screens-mobile.css';
+import './screens-xlarge.css';
 
 const Header = ({ name, title, date }) => (
   <header>
@@ -92,7 +92,7 @@ class TemplateWrapper extends Component {
           onSwipedRight={this.swipeRight}
         >
           <Transition location={location}>
-            <div id="slide" style={{'width': '100%'}}>{children}</div>
+            <div className="slide">{children}</div>
           </Transition>
         </Swipeable>
         <Commands location={this.fetchLocation()} />

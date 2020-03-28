@@ -2,19 +2,20 @@ import React from 'react';
 
 class Commands extends React.Component {
   render() {
-    const isNotFirstPage = () => {
-      return this.props.location !== '/1';
+    const isFirstPage = () => {
+      return this.props.location === '/1';
     }
     
-    const isNotLastPage = () => {
-      return this.props.location !== '/17';
+    const isLastPage = () => {
+      return this.props.location === '/17';
     }
 
     return (
       <footer class="commands">
-        { isNotFirstPage() &&  <span class="previous"><i class="ri-arrow-left-line"></i> Previous</span> }
-        <span class="description">Use the arrow keys to navigate</span>
-        { isNotLastPage() &&  <span class="next">Next <i class="ri-arrow-right-line"></i></span> }
+          { !isFirstPage() &&  <span class="previous"><i class="ri-arrow-left-line"></i> Previous</span> }
+          { isFirstPage() && <span class="instructions">Use the arrow keys to navigate</span> } 
+          { !isLastPage() &&  <span class="next">Next <i class="ri-arrow-right-line"></i></span> }
+          { isLastPage() &&  <span class="instructions"><a href="/1">Click here to restart the presentation</a></span> }
       </footer>
     );
   }

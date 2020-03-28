@@ -1,0 +1,85 @@
+@media only screen and (max-width: 768px) {
+  :root {
+    --small-text: 1rem;
+    --regular-text: 1rem;
+    --large-text: 1.5rem;
+  }
+
+  .logo {
+    display: block;
+    margin: auto;
+    width: 80vw;
+  } 
+
+  .image-01 {
+    display: block;
+    margin: auto;
+    width: 80vw; 
+  }
+
+  .image-04 {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
+
+  .centralized-image {
+    display: block;
+    margin: auto;
+    margin-bottom: 3%;
+    width: 90vw;
+  }
+
+  .centralized-logo {
+    display: block;
+    margin: auto;
+    margin-bottom: 3%;
+    width: 75%;
+    height: 75%;
+  }
+
+  .mobile-instructions {
+    display: block;
+    font-size: var(--small-text);
+
+    bottom: 0;
+
+    align-items: center;
+
+    width: 100%;
+    padding: 50px;
+
+    user-select: none;
+    color: var(--meta);
+  }
+
+  .mobile-instructions a {
+    color: var(--meta);
+    text-decoration: none;
+  }
+  
+  .mobile-instructions a:hover {
+    color: var(--accent);
+  }
+
+  header {
+    font-size: var(--small-text);
+  
+    position: fixed;
+    top: 0;
+    left: 0;
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    width: 100vw;
+    padding: 20px;
+  
+    user-select: none;
+  }
+
+  footer {
+    display: none !important;
+  }
+}

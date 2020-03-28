@@ -1,22 +1,37 @@
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 2000px) {
+  :root {
+    --small-text: 1.5rem;
+    --regular-text: 2rem;
+    --large-text: 3rem;
+  }
+
+  .logo {
+    display: block;
+    margin: auto;
+    width: 85vw;
+  } 
+
+  .image-01 {
+    display: block;
+    margin: auto;
+    width: 60vw; 
+  }
+
+  .image-04 {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
+
   .centralized-image {
     display: block;
     margin: auto;
     margin-bottom: 3%;
-    width: 85%;
-    height: 80%;
-  }
-
-  .centralized-logo {
-    display: block;
-    margin: auto;
-    margin-bottom: 3%;
-    width: 75%;
-    height: 75%;
+    width: 95vw;
   }
 
   header {
-    font-size: 40%;
+    font-size: 75%;
   
     position: fixed;
     top: 0;
@@ -33,7 +48,7 @@
   }
   
   footer {
-    font-size: 40%;
+    font-size: 75%;
   
     position: fixed;
     bottom: 0;
@@ -47,5 +62,9 @@
     padding: 50px;
   
     user-select: none;
+  }
+
+  .commands {
+    font-size: var(--small-text);
   }
 }
