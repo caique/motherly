@@ -30,7 +30,7 @@
 ---
 
 <div class="image-01">
-    <img src="./images/01.svg"/>
+    <img src="./images/m01.svg"/>
 </div>
 
 <div class="quote">
@@ -104,7 +104,7 @@
 ---
 
 <div class="centralized-image">
-    <img src="./images/02.svg" />
+    <img src="./images/m02.svg" />
 </div>
 
 <div class="mobile-instructions">
@@ -114,7 +114,7 @@
 ---
 
 <div class="centralized-image">
-    <img src="./images/03.svg" />
+    <img src="./images/m03.svg" />
 </div>
 
 <div class="mobile-instructions">
@@ -146,7 +146,7 @@
 ---
 
 <div class="image-04">
-    <img src="./images/04.svg" />
+    <img src="./images/m04.svg" />
 </div>
 
 <div class="mobile-instructions">
@@ -155,8 +155,8 @@
 
 ---
 
-<div class="centralized-image">
-    <img src="./images/05.svg" />
+<div class="image-05">
+    <img src="./images/m05.svg" />
 </div>
 
 <div class="mobile-instructions">

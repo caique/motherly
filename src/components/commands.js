@@ -3,11 +3,11 @@ import React from 'react';
 class Commands extends React.Component {
   render() {
     const isFirstPage = () => {
-      return this.props.location === '/1';
+      return ['/', '/1', '/1/'].includes(this.props.location);
     }
     
     const isLastPage = () => {
-      return this.props.location === '/17';
+      return ['/17', '/17/'].includes(this.props.location);
     }
 
     return (

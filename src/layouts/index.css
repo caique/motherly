@@ -4,9 +4,6 @@
   --accent: #3178cd;
   --text: black;
   --detail: #ead1dcff;
-  --small-text: 1rem;
-  --regular-text: 1.3rem;
-  --large-text: 2rem;
 }
 
 * {
@@ -105,45 +102,6 @@ h1 {
 h2 {
   font-size: 120%;
   margin-bottom: 0.5rem;
-}
-
-header {
-  font-size: 50%;
-
-  position: fixed;
-  top: 0;
-  left: 0;
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
-  width: 100vw;
-  padding: 20px;
-
-  user-select: none;
-}
-
-footer {
-  font-size: 50%;
-
-  position: fixed;
-  bottom: 0;
-  left: 0;
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
-  width: 100vw;
-  padding: 50px;
-
-  user-select: none;
-  color: var(--meta);
-}
-
-.commands {
-  font-size: var(--small-text);
 }
 
 .previous {
