@@ -25,7 +25,7 @@
   .quote {
     font-size: var(--regular-text);
     font-style: italic;
-    margin: 3vh 7vw 7vh 7vw;
+    margin: 3vh 7vw 4vh 7vw;
   }
 
   .content {

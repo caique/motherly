@@ -3,6 +3,8 @@
     Roughly, <strong>more than half</strong> of those deaths occurred in developing countries.
 </div>
 
+---
+
 <div class="content">
     Considering that, the UN established the <strong>Sustainable Development Goal 3</strong>: <em>Good Health and Well-being</em>.
 </div>
@@ -27,12 +29,6 @@
     "Both the World Health Organization (WHO) and United Nations Children's Fund (UNICEF) <strong>recommend early initiation of breastfeeding</strong> [...]"
 </div>
 
----
-
-<div class="image-01">
-    <img src="./images/m01.svg"/>
-</div>
-
 <div class="quote">
     "Breastfeeding promotion is <strong>important in both rich and poor countries alike</strong>, and <strong>might contribute to achievement of the forthcoming Sustainable Development Goals</strong>."
 </div>
@@ -44,11 +40,11 @@
 </div>
 
 <div class="content">
-    Despite all that, <strong>only 40% of infants aged 6 months or less are exclusively breastfed</strong>. These numbers can be even worse in low-income and middle-income countries.
+    Despite all that, <strong>only 40% of infants aged 6 months or less are exclusively breastfed</strong>.
 </div>
 
 <div class="content">
-    Many <strong>new mothers are unable to breastfeed</strong> because they cannot overcome the difficulties faced in the beginning, such as: the right position of the baby, cracked nipples, and misleading information.
+    Many <strong>new mothers are unable to breastfeed</strong> because they cannot overcome the difficulties faced in the beginning.
 </div>
 
 ---
@@ -68,7 +64,7 @@
 ---
 
 <div class="detail">
-    <i class="ri-instagram-line"></i>
+    <i class="ri-facebook-box-line"></i>
 </div>
 
 <div class="content">
@@ -79,8 +75,18 @@
     There are Facebook groups about breastfeeding with<strong> thousands of women</strong>.
 </div>
 
+---
+
+<div class="detail">
+    <i class="ri-instagram-line"></i>
+</div>
+
 <div class="content">
-   In Brazil, I started an <a href="https://www.instagram.com/nutricaomaternoinfantilufmg/" target=_blank>Instagram</a> account to connect health professionals - like myself - with women in need of breastfeeding support. In a few months the account got around 280 followers, with no publicity.
+   In Brazil, I started an <a href="https://www.instagram.com/nutricaomaternoinfantilufmg/" target=_blank>Instagram</a> to connect health professionals - like myself - with women in need of breastfeeding support.
+</div>
+
+<div class="content">
+    In a few months it got around 288 followers, with no publicity.
 </div>
 
 ---
@@ -90,11 +96,15 @@
 </div>
 
 <div class="content">
-    However, <strong>social networks are not build for breastfeeding content</strong>. This makes women uncomfortable and reduces their chances to share experiences and provide support.
+    However, <strong>social networks are not build for breastfeeding content</strong>.
 </div>
 
 <div class="content">
     Very often, <strong>this content is classified as restricted</strong> by both artificial intelligence and human verification, <strong>implicating that it is inappropriate</strong>.
+</div>
+
+<div class="content">
+    This makes women uncomfortable and reduces their chances to share experiences and provide support.
 </div>
 
 ---
@@ -113,30 +123,32 @@
 
 ---
 
-<div class="centralized-image">
-    <img src="./images/m03.svg" />
-</div>
-
-<div class="mobile-instructions">
-    You can zoom in the image
-</div>
-
----
-
 <div class="detail">
     <i class="ri-chat-heart-line"></i>
 </div>
 
 <div class="content">
-    It’s already been proved that <strong>breastfeeding can reduce neonatal mortality</strong>. Motherly can connect moms who are struggling with breastfeeding and ensure that they receive the necessary support.
+    It’s already been proved that <strong>breastfeeding can reduce neonatal mortality</strong>. <em>Motherly</em> can connect moms who are struggling with breastfeeding and ensure that they receive the necessary support.
 </div>
 
 <div class="content">
-    Within my circle of influence <strong>I can enable connections between women to improve breastfeeding practices</strong> making them expand their support network.
+    <em>Motherly</em> can connect moms who are struggling with breastfeeding and ensure that they receive the necessary support.
 </div>
+
+---
 
 <div class="content">
     <strong>A mother that receives help through the platform can volunteer and help others</strong>. Finally, the mothers can connect their own circle of influence to help others.
+</div>
+
+---
+
+<div class="image-05">
+    <img src="./images/m05.svg" />
+</div>
+
+<div class="mobile-instructions">
+    You can zoom in the image
 </div>
 
 ---
@@ -145,18 +157,14 @@
 
 ---
 
-<div class="image-04">
-    <img src="./images/m04.svg" />
-</div>
-
-<div class="mobile-instructions">
-    You can zoom in the image
+<div class="content">
+    Within my circle of influence <strong>I can enable connections between women to improve breastfeeding practices</strong> making them expand their support network.
 </div>
 
 ---
 
-<div class="image-05">
-    <img src="./images/m05.svg" />
+<div class="image-04">
+    <img src="./images/m04.svg" />
 </div>
 
 <div class="mobile-instructions">

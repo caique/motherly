@@ -1,7 +1,7 @@
 @media only screen and (min-device-width: 300px) and (max-device-width: 833px) {
   :root {
     --small-text: 0.8rem;
-    --regular-text: 1.1rem;
+    --regular-text: 1.2rem;
     --large-text: 1.5rem;
   }
 
@@ -40,7 +40,7 @@
   .quote {
     font-size: var(--regular-text);
     font-style: italic;
-    margin: 3vh 7vw 7vh 7vw;
+    margin: 3vh 7vw 4vh 7vw;
   }
 
   .content {

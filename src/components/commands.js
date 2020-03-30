@@ -7,7 +7,7 @@ class Commands extends React.Component {
     }
     
     const isLastPage = () => {
-      return ['/17', '/17/'].includes(this.props.location);
+      return ['/19', '/19/'].includes(this.props.location);
     }
 
     return (
