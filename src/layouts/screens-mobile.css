@@ -3,6 +3,7 @@
     --small-text: 0.8rem;
     --regular-text: 1.2rem;
     --large-text: 1.5rem;
+    --quote-text: 0.9rem;
   }
 
   .mobile-instructions {
@@ -38,7 +39,7 @@
   }
 
   .quote {
-    font-size: var(--regular-text);
+    font-size: var(--quote-text);
     font-style: italic;
     margin: 3vh 7vw 4vh 7vw;
   }
