@@ -128,7 +128,7 @@
 </div>
 
 <div class="content">
-    It’s already been proved that <strong>breastfeeding can reduce neonatal mortality</strong>. <em>Motherly</em> can connect moms who are struggling with breastfeeding and ensure that they receive the necessary support.
+    It’s already been proved that <strong>breastfeeding can reduce neonatal mortality</strong>.
 </div>
 
 <div class="content">
